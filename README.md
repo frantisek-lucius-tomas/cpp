@@ -1,2 +1,2 @@
 # cpp
-notes I took while learning cpp
+notes I took while learning
